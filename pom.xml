@@ -85,7 +85,7 @@
         <dependency>
             <artifactId>wallet-objects</artifactId>
             <groupId>com.wallet.objects.library</groupId>
-            <version>1.19.1</version>
+            <version>1.22.0</version>
         </dependency>
     </dependencies>
 
